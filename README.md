@@ -10,8 +10,8 @@
 
 ## Selected Case Studies
 
-| S.No | Case Study No. | Title | Folder |
-| :---: | :---: | :--- | :--- |
+| S.No | Case Study No. | Title |
+| :---: | :---: | :--- |
 | 1 | 02 | Progressive Electricity Billing |
 | 2 | 11 | Examination Result and Grace-Mark Validation |
 | 3 | 13 | ATM Transaction Sequence Simulation |
